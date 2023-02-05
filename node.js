@@ -1,6 +1,6 @@
 const { ethers } = require('ethers')
 
-const provider = new ethers.providers.JsonRpcProvider('https://api.infura.io/v1/jsonrpc/mainnet')
+const provider = new ethers.providers.JsonRpcProvider('https://bsc-dataseed.binance.org/')
 
 
 
